@@ -4,4 +4,5 @@ export default defineNuxtPlugin((nuxtApp) => {
             sayHello: (msg: string) => console.log(`Olá ${msg}!`)
         }
     }
+    
 })
